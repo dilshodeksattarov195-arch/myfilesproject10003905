@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productuerify",
+        "uuid": 27483390,
+        "checksum": "rlnq7j"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
